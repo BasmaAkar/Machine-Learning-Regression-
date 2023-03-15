@@ -8,5 +8,4 @@ The main objective of this workshop is to practice the three concepts of regress
 
 
 **### Multiple Polynomial Linear Regression** 
-
-https://github.com/BasmaAkar/Machine-Learning-Regression-
+![image](https://user-images.githubusercontent.com/101791324/225291652-19300810-0590-4148-a606-83ea7b7c8176.png)
